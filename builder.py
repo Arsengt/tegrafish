@@ -13,7 +13,7 @@ def clear():
 clear()
 en = base64.b64decode('Q29kZWQgYnkgQGxhbWVyMTEyMzEx')
 print(en.decode("UTF-8"))
-print(Fore.GREEN + '''Prod.Monoliza''')
+print(Fore.GREEN + 'Prod.Monoliza')
 input(Fore.RED + "Нажмите Enter>>")
 clear()
 
